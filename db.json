@@ -1,0 +1,63 @@
+{
+	"users": [{
+			"id": 1,
+			"name": "sara",
+			"phoneNum": "9999933333",
+			"profilePic": "http://samplesite/img.jpg",
+			"address": "Hyderabad India",
+			"facebookLink": "https://facebook.com/testuser/",
+			"instagramLink": "https://instagram.com/testuser/",
+			"skills": ["Programming", "Photoshop"],
+			"projects": [{
+				"name": "Project 1",
+				"description": "Some description",
+				"technologies": ["Html", "CSS", "JavaScript"]
+			}]
+		},
+		{
+			"id": 2,
+			"name": "Test2",
+			"phoneNum": "9999933333",
+			"profilePic": "http://samplesite/img.jpg",
+			"address": "Hyderabad India",
+			"facebookLink": "https://facebook.com/testuser/",
+			"instagramLink": "https://instagram.com/testuser/",
+			"skills": ["Programming", "Photoshop"],
+			"projects": [{
+				"name": "Project 1",
+				"description": "Some description",
+				"technologies": ["Html", "CSS", "JavaScript"]
+			}]
+		},
+		{
+			"id": 3,
+			"name": "Test2",
+			"phoneNum": "9999933333",
+			"profilePic": "http://samplesite/img.jpg",
+			"address": "Hyderabad India",
+			"facebookLink": "https://facebook.com/testuser/",
+			"instagramLink": "https://instagram.com/testuser/",
+			"skills": ["Programming", "Photoshop"],
+			"projects": [{
+				"name": "Project 1",
+				"description": "Some description",
+				"technologies": ["Html", "CSS", "JavaScript"]
+			}]
+		},
+		{
+			"id": 4,
+			"name": "Test2",
+			"phoneNum": "9999933333",
+			"profilePic": "http://samplesite/img.jpg",
+			"address": "Hyderabad India",
+			"facebookLink": "https://facebook.com/testuser/",
+			"instagramLink": "https://instagram.com/testuser/",
+			"skills": ["Programming", "Photoshop"],
+			"projects": [{
+				"name": "Project 1",
+				"description": "Some description",
+				"technologies": ["Html", "CSS", "JavaScript"]
+			}]
+		}
+	]
+}
