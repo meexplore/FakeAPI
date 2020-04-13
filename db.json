@@ -1,26 +1,94 @@
 [
-   {
-      "id":1,
-      "name":"Sara",
-      "phoneNum":"9999933333",
-      "profilePic":"https://randomuser.me/api/portraits/women/1.jpg",
-      "address":"Hyderabad India",
-      "facebookLink":"https://facebook.com/testuser/",
-      "instagramLink":"https://instagram.com/testuser/",
-      "skills":[
-         "Programming",
-         "Photoshop"
-      ],
-      "projects":[
-         {
-            "name":"Project 1",
-            "description":"Some description",
-            "technologies":[
-               "Html",
-               "CSS",
-               "JavaScript"
-            ]
-         }
-      ]
-   }
-]
+      {
+         "id":1,
+         "name":"Sara",
+         "phoneNum":"9999933333",
+         "profilePic":"https://randomuser.me/api/portraits/women/1.jpg",
+         "address":"Hyderabad India",
+         "facebookLink":"https://facebook.com/testuser/",
+         "instagramLink":"https://instagram.com/testuser/",
+         "skills":[
+            "Programming",
+            "Photoshop"
+         ],
+         "projects":[
+            {
+               "name":"Project 1",
+               "description":"Some description",
+               "technologies":[
+                  "Html",
+                  "CSS",
+                  "JavaScript"
+               ]
+            }
+         ]
+      },
+      {
+         "id":2,
+         "name":"Test2",
+         "phoneNum":"9999933333",
+         "profilePic":"https://randomuser.me/api/portraits/women/2.jpg",
+         "address":"Bangalore India",
+         "facebookLink":"https://facebook.com/testuser/",
+         "instagramLink":"https://instagram.com/testuser/",
+         "skills":[
+            "Programming",
+            "Photoshop"
+         ],
+         "projects":[
+            {
+               "name":"Project 1",
+               "description":"Some description",
+               "technologies":[
+                  "Html",
+                  "CSS",
+                  "JavaScript"
+               ]
+            }
+         ]
+      },
+      {
+         "id":3,
+         "name":"Test3",
+         "phoneNum":"9999933333",
+         "profilePic":"https://randomuser.me/api/portraits/women/3.jpg",
+         "address":"Kerala India",
+         "facebookLink":"https://facebook.com/testuser/",
+         "instagramLink":"https://instagram.com/testuser/",
+         "skills":[
+            "Programming",
+            "Photoshop"
+         ],
+         "projects":[
+            {
+               "name":"Project 1",
+               "description":"Some description",
+               "technologies":[
+                  "Html",
+                  "CSS",
+                  "JavaScript"
+               ]
+            }
+         ]
+      },
+      {
+         "id":4,
+         "name":"Test4",
+         "phoneNum":"9999933333",
+         "profilePic":"https://randomuser.me/api/portraits/women/4.jpg",
+         "address":"Chennai India",
+         "facebookLink":"https://facebook.com/testuser/",
+         "instagramLink":"https://instagram.com/testuser/",
+         "skills":[
+            "Programming",
+            "Photoshop"
+         ],
+         "projects":[
+            {
+               "name":"Project 1",
+               "description":"Some description",
+               "technologies":[]
+            }
+         ]
+      }
+   ]
