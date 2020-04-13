@@ -6,7 +6,9 @@
          "profilePic":"https://randomuser.me/api/portraits/women/1.jpg",
          "address":"Hyderabad India",
          "facebookLink":"https://facebook.com/testuser/",
-         "instagramLink":"https://instagram.com/testuser/",
+         "twitterLink":"https://instagram.com/testuser/",
+         "linkedinLink":"https://instagram.com/testuser/",
+         "githubLink":"https://instagram.com/testuser/",
          "skills":[
             "Programming",
             "Photoshop"
@@ -29,15 +31,17 @@
          "phoneNum":"9999933333",
          "profilePic":"https://randomuser.me/api/portraits/women/2.jpg",
          "address":"Bangalore India",
-         "facebookLink":"https://facebook.com/testuser/",
-         "instagramLink":"https://instagram.com/testuser/",
+         "facebookLink":"https://facebook.com/testuser2/",
+         "twitterLink":"https://instagram.com/testuser2/",
+         "linkedinLink":"https://instagram.com/testuser2/",
+         "githubLink":"https://instagram.com/testuser2/",
          "skills":[
             "Programming",
             "Photoshop"
          ],
          "projects":[
             {
-               "name":"Project 1",
+               "name":"Project 2",
                "description":"Some description",
                "technologies":[
                   "Html",
@@ -53,15 +57,17 @@
          "phoneNum":"9999933333",
          "profilePic":"https://randomuser.me/api/portraits/women/3.jpg",
          "address":"Kerala India",
-         "facebookLink":"https://facebook.com/testuser/",
-         "instagramLink":"https://instagram.com/testuser/",
+         "facebookLink":"https://facebook.com/testuser3/",
+         "twitterLink":"https://instagram.com/testuser3/",
+         "linkedinLink":"https://instagram.com/testuser3/",
+         "githubLink":"https://instagram.com/testuser3/",
          "skills":[
             "Programming",
             "Photoshop"
          ],
          "projects":[
             {
-               "name":"Project 1",
+               "name":"Project 3",
                "description":"Some description",
                "technologies":[
                   "Html",
@@ -77,17 +83,21 @@
          "phoneNum":"9999933333",
          "profilePic":"https://randomuser.me/api/portraits/women/4.jpg",
          "address":"Chennai India",
-         "facebookLink":"https://facebook.com/testuser/",
-         "instagramLink":"https://instagram.com/testuser/",
+         "facebookLink":"https://facebook.com/testuser4/",
+         "twitterLink":"https://instagram.com/testuser4/",
+         "linkedinLink":"https://instagram.com/testuser4/",
+         "githubLink":"https://instagram.com/testuser4/",
          "skills":[
             "Programming",
             "Photoshop"
          ],
          "projects":[
             {
-               "name":"Project 1",
+               "name":"Project 4",
                "description":"Some description",
-               "technologies":[]
+               "technologies":["Html",
+                  "CSS",
+                  "JavaScript"]
             }
          ]
       }
